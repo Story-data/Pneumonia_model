@@ -28,8 +28,6 @@ We utilized the Chest X-Ray Images (Pneumonia) dataset from [Kaggle](https://www
 ## RESULT
 The trained model achieved an `accuracy` of **0.753**, a `precision` of **0.721**, and a `recall` of **0.987** on the test set. These metrics indicate the model’s ability to accurately identify pneumonia cases while minimizing false positives and false negatives.
 
-The link to deployed website can be found below:
-
 
 
  
