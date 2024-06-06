@@ -8,6 +8,15 @@ Pneumonia is an inflammatory lung condition caused by infections, resulting in f
 
 This study developed a deep learning model using the **`ResNet50V2`** architecture to analyze chest X-ray images, aiming to improve diagnostic accuracy and efficiency in detecting pneumonia, thereby reducing misdiagnosis and treatment delays.
 
+### Installation Packages
+`pip install tensorflow==2.6.0`
+
+`pip install matplotlib==3.4.3`
+
+`pip install streamlit==1.4.0`
+
+`pip install pillow==8.3.2`
+
 ## DATA
 We utilized the Chest X-Ray Images (Pneumonia) dataset from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/code), consisting of 5,856 X-ray images (JPEG format) categorized as either “PNEUMONIA” or “NORMAL.” The dataset was organized into three folders (train, test, and val) with subfolders for each image category.
 
@@ -28,6 +37,6 @@ We utilized the Chest X-Ray Images (Pneumonia) dataset from [Kaggle](https://www
 ## RESULT
 The trained model achieved an `accuracy` of **0.753**, a `precision` of **0.721**, and a `recall` of **0.987** on the test set. These metrics indicate the model’s ability to accurately identify pneumonia cases while minimizing false positives and false negatives.
 
+### App Interface of the Deployment 
+![app_interface](https://github.com/Story-data/Pneumonia_model/assets/103637488/1f3755b3-1254-4e29-a08a-1ea0601c6577)
 
-
- 
