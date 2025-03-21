@@ -2,7 +2,6 @@
 
 ![pneumonia](https://github.com/Story-data/Pneumonia_model/assets/103637488/5af66e2f-8974-4b42-9e55-d8804e5087ae)
 
-HDSC Spring ’24 Premier Project By **Team StoryBoard**
 
 Pneumonia is an inflammatory lung condition caused by infections, resulting in fluid or pus in the air sacs, with symptoms like cough, fever, and shortness of breath. It poses a high risk to infants, older adults, and those with weakened immune systems. Accurate and timely diagnosis, often through chest X-rays, is critical but can be subjective and error-prone. 
 
